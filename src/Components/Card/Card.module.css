@@ -1,0 +1,6 @@
+/* Main Styles - Component > Card */
+.card__container {margin: 2rem 0; width: 80%;}
+.card__grid      {margin: 0 2% !important;}
+.card__infected  {border-bottom: 1.02rem solid rgba(0, 0, 250, 0.6);}
+.card__recovered {border-bottom: 1.02rem solid rgba(0, 250, 0, 0.6);}
+.card__death     {border-bottom: 1.02rem solid rgba(250, 0, 0, 0.6);}
